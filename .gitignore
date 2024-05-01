@@ -4,7 +4,6 @@ crash-reports
 defaultconfigs
 logs
 ops.json
-scripts
 usercache.json
 usernamecache.json
 whitelist.json
